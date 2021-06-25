@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-casper",
-  "description": "Casper for gatsby",
+  "name": "ayushraj-blog",
+  "description": "Personal blog of Ayush Raj",
   "version": "0.0.0",
   "private": true,
-  "author": "Scott Cooper <scttcper@gmail.com>",
+  "author": "Ayush Raj <ayushrajdahal@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
